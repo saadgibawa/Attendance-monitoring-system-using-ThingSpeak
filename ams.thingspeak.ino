@@ -24,8 +24,8 @@ SoftwareSerial mySerial(RX_PIN, TX_PIN);
 
 
 //----------------------------------------SSID and Password of your WiFi router.
-const char* ssid = "Galaxy"; //--> Your wifi name or SSID.
-const char* password = "Sanchu13";  //--> Your wifi password.
+const char* ssid = ""; //--> Your wifi name or SSID.
+const char* password = "";  //--> Your wifi password.
 //----------------------------------------
 
 //----------------------------------------Host & httpsPort

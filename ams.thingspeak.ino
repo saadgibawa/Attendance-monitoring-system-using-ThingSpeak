@@ -33,8 +33,8 @@ const char* host = "api.thingspeak.com";
 
 //----------------------------------------
 
-unsigned long myChannelNumber = 2495394;
-const char * apikey = "PU12XQSEPKXLC4ZK";
+unsigned long myChannelNumber = ; //--> channel number.
+const char * apikey = ""; //--> api key
 
 WiFiClient client; //--> Create a WiFiClientSecure object.
 const int httpsPort = 80;
